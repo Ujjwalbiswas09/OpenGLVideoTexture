@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OpenGLVideoTexture</string>
+    <string name="fragment">
+
+    }
+    </string>
+    <string name="vertex">
+
+    </string>
+</resources>
